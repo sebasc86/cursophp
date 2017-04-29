@@ -114,7 +114,14 @@ function validarPass(){
 if (validarPass() == true && validarNombre() == true && emailValidate() == true){
   header("Location: confirmacion.php");
   exit;
-}
+};
+
+$errorPais = "";
+if(isset($_POST["pais"])){
+  if($_POST["pais"] == null || $_POST ["pais"] === "Elige un pais") {
+    $errorPais = "Debe completar al menos un pais";
+  }
+};
 
 
 ?>
@@ -186,7 +193,7 @@ if (validarPass() == true && validarNombre() == true && emailValidate() == true)
                       <input type='password' name='password2' id='password' maxlength="50" />
                       <div id='register_password_errorloc' class='error' style='clear:both'><?php
                        variableError("password2");
-                       validarPass(); ?></div>
+                       validarPass();?></div>
                   </div>
                 <?php endif; ?>
 
@@ -222,6 +229,7 @@ if (validarPass() == true && validarNombre() == true && emailValidate() == true)
 
                 <div class='container'>
                     <input type='submit' name='Submit' value='Enviar' />
+                    <p><?php echo $errorPais; ?></p>
                 </div>
 
 
