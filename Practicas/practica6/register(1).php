@@ -1,127 +1,6 @@
 <?PHP
 
-
-$errorValidarPass = '';
-
-$paises = [
-    'ar' => 'Argentina',
-    'br' => 'Brasil',
-    'co' => 'Colombia',
-    'it' => 'Italia',
-    'us' => 'Estados&nbspUnidos',
-    'ca' => 'Canada',
-    'es' => 'España',
-    'fr' => 'Francia',
-    'ru' => 'Rusia',
-    'de' => 'Alemania'
-];
-
-function select(){
-  if(isset($_POST["pais"])){
-    if($_POST["pais"] == NULL){
-    echo "Eliga un pais <br>";
-    } else {
-    echo $_POST["pais"];
-    };
-  };
-};
-
-
-$none = "no completo campo";
-var_dump($_POST);
-
-function variable($tiponame) {
-  if(isset($_POST["$tiponame"])){
-  echo $_POST["$tiponame"];
-};
-};
-
-
-function variableError($tipoError) {
-  if(isset($_POST[$tipoError])){
-      if($_POST[$tipoError] == NULL) {
-        echo "Falta completar campo <br>";
-      }
-  };
-};
-
- // validacion nombre
-
-function validarNombre() {
-  if(isset($_POST["name"])){
-$nombre = $_POST["name"];
-$nombre = trim($nombre);
-      if(strlen($nombre) > 20) {
-        echo "Es mayor a 20 caracteres";
-        return false;
-      }else if(strlen($nombre) <= 3) {
-        echo "Es Menor a 4 Caracteres";
-        return false;
-      }else if(!preg_match("/^[a-zA-ZñÑáÁéÉíÍÓóúÚÜÀ-Ö-ö-ÿ\s]+$/", $nombre)){
-        echo "No es un nombre valido";
-        return false;
-      }else {
-        return true;
-      }
-
-    };
-};
-
-
-
-//email
-function emailValidate() {
-  if(isset($_POST["email"])) {
-    $email = trim($_POST['email']);
-    $input = filter_var($email, FILTER_VALIDATE_EMAIL);
-    if ($input === false) {
-      $errorEmail = 'El email ingresado no es válido';
-      echo "$errorEmail";
-      return false;
-    } else {
-      return true;
-    }
-  };
-};
-
-//contraseña
-
-//validar pass
-function validarPass(){
-  if(isset($_POST['password']) && isset($_POST["password2"])){
-    $pass = $_POST["password"];
-    if ($_POST['password'] != $_POST['password2']) {
-      echo 'Las contraseñas no coinciden';
-      return false;
-    } elseif(strlen($pass) < 6){
-        echo "es menor a 6 caracteres";
-        return false;
-    } elseif (!preg_match("/[a-z]/", $pass)){
-        echo "La clave debe tener al menos una Minuscula";
-        return false;
-    } elseif(!preg_match("/[A-Z]/", $pass)) {
-        echo "La clave debe tener al menos una Mayuscula";
-        return false;
-    } elseif (!preg_match("/[0-9]/", $pass)) {
-        echo "La clave debe tener al menos un Número";
-        return false;
-    } else {
-      return true;
-    };
-  };
-};
-
-if (validarPass() == true && validarNombre() == true && emailValidate() == true){
-  header("Location: confirmacion.php");
-  exit;
-};
-
-$errorPais = "";
-if(isset($_POST["pais"])){
-  if($_POST["pais"] == null || $_POST ["pais"] === "Elige un pais") {
-    $errorPais = "Debe completar al menos un pais";
-  }
-};
+include ("..\practica8\php\controller-php.php");
 
 
 ?>
@@ -132,9 +11,10 @@ if(isset($_POST["pais"])){
     <title>Contact us</title>
 </head>
 <body>
+  
 
     <div id='fg_membersite'>
-        <form id='register' action='register(1).php' method='post'>
+        <form id='register' action='register(1).php' method='post' enctype="multipart/form-data">
             <fieldset >
                 <legend>Registrate</legend>
 
@@ -200,10 +80,12 @@ if(isset($_POST["pais"])){
 
 
                 <div class='container'>
-                    <label for='pais' >País*:</label><br/>
+                    <label for='pais' >País*:</label><br>
 
                     <select name="pais" id="pais">
+
                       <option value="">
+
                         <?php if (isset($_POST["pais"])) :?>
                           <?php if ($_POST["pais"] != NULL)  :?>
                             <?php echo $_POST["pais"] ;?>
@@ -211,21 +93,40 @@ if(isset($_POST["pais"])){
                             <?php echo "Elije un pais" ;?>
                           <?php endif; ?>
                         <?php endif; ?>
+
+
                       </option>
+
 
 
                     <?php foreach ($paises as $key => $value): ?>
                     <option>
-                    <?php echo $value; ?>
+                    <?php echo $value;
+                    ?>
+                    <br>
                     </option>
-                    <?php endforeach; ?>
+                  <?php endforeach;?>
 
-
-
-
+                </select>
+                <br>
+                <br>
                 </div>
 
+                <div class="enviar">
 
+                Subir Avatar:
+                <br>
+                <input type="file" name="imgPerfil"><br>
+                <br>
+                </div>
+
+                <div class="enviar">
+
+                Subir Cv:
+                <br>
+                <input type="file" name="cv"><br><br>
+
+                </div>
 
                 <div class='container'>
                     <input type='submit' name='Submit' value='Enviar' />
