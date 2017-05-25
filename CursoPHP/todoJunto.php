@@ -1,5 +1,5 @@
 <?php
-include("funciones.php");
+/*include("funciones.php");
 include("superficie.php");
 global $funcionesEjecutadas;
 echo "<br>";
@@ -21,11 +21,24 @@ mayor(2,4,6);
 echo "<br>";
 echo "$funcionesEjecutadas";
 echo "<br>";
-
+*/
 $mystring =  "Me encanta php, A Mi tambien me encanta php!";
 $findme   = "php";
 $pos = strpos($mystring, $findme);
 echo "$pos";
+echo '<br>';
+
+$email = 'pepe@hotmail.com';
+$encontrar = '@';
+$posicion = strpos($email, $encontrar);
+echo $posicion;
+echo "<br>";
+
+/*$email = substr($email, 0, $posicion);
+echo $email; // leonpurpura.com
+echo "<br>";*/
 
 
-  ?>
+$email = str_replace('p', '', $email);
+echo $email; // leonpurpura.com
+?>

@@ -11,7 +11,7 @@ include ("..\practica8\php\controller-php.php");
     <title>Contact us</title>
 </head>
 <body>
-  
+
 
     <div id='fg_membersite'>
         <form id='register' action='register(1).php' method='post' enctype="multipart/form-data">
@@ -28,9 +28,12 @@ include ("..\practica8\php\controller-php.php");
                     <label for='name' >Nombre completo: </label><br/>
 
                       <input type='text' name='name' id='name' value="<?php  variable("name"); ?>" maxlength="50" /><br/>
-                      <span id='register_name_errorloc' class='error'><?php variableError("name");
+                      <?php if ($POST): ?>
+                      <span id='register_name_errorloc' class='error'><?php validarNombre()
                       validarNombre();
                       ?></span>
+                      <?php endif; ?>
+
 
 
 
@@ -59,8 +62,9 @@ include ("..\practica8\php\controller-php.php");
                     <label for='password' >Contraseña*:</label><br/>
                     <div class='pwdwidgetdiv' id='thepwddiv' ></div>
                     <input type='password' name='password' id='password' maxlength="50" />
-                    <div id='register_password_errorloc' class='error' style='clear:both'>
-                      <?php variableError("passoword"); ?>
+                    <div id='register_password_errorloc' class='error'>
+                      <?php variableError("passoword");
+                      validarPass(); ?>
                     </div>
                 </div>
 
@@ -71,7 +75,7 @@ include ("..\practica8\php\controller-php.php");
                       <label for='password' >Confirmar Contaseña*:</label><br/>
                       <div class='pwdwidgetdiv' id='thepwddiv' ></div>
                       <input type='password' name='password2' id='password' maxlength="50" />
-                      <div id='register_password_errorloc' class='error' style='clear:both'><?php
+                      <div id='register_password_errorloc' class='error'><?php
                        variableError("password2");
                        validarPass();?></div>
                   </div>
