@@ -1,0 +1,668 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_SE",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"Vali",
+				"ValidadorRegistro〔class〕"
+			],
+			[
+				"val",
+				"$validador〔variable〕"
+			],
+			[
+				"re",
+				"$registro〔variable〕"
+			],
+			[
+				"PASS",
+				"PASSWORD_DEFAULT〔constant〕"
+			],
+			[
+				"abs",
+				"abstract〔keyword〕"
+			],
+			[
+				"json",
+				"json_encode〔function〕"
+			],
+			[
+				"ua",
+				"$usuarioArray〔variable〕"
+			],
+			[
+				"u",
+				"usuarioArray"
+			],
+			[
+				"regis",
+				"$registros〔variable〕"
+			],
+			[
+				"find",
+				"findAll〔function〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"li",
+				"lista"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"mi",
+				"miUsuario"
+			],
+			[
+				"usuario",
+				"usuarioAMostrar"
+			],
+			[
+				"usu",
+				"usuarioAMostrar"
+			],
+			[
+				"id",
+				"idAMostrar"
+			],
+			[
+				"foot",
+				"fotoPortada"
+			],
+			[
+				"__",
+				"__construct"
+			],
+			[
+				"ami",
+				"amigos"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"foto",
+				"fotoPerfil"
+			],
+			[
+				"matri",
+				"matrizXWing"
+			],
+			[
+				"MAtri",
+				"MatrizXWing"
+			],
+			[
+				"Matri",
+				"MatrizAuto"
+			],
+			[
+				"tamago",
+				"tamagotchi2"
+			],
+			[
+				"get",
+				"getImageUser($email)\tmixed"
+			],
+			[
+				"guar",
+				"guardarImagen($upload, $errores)\tmixed"
+			],
+			[
+				"v",
+				"validarRegistro()\tmixed"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"session_de",
+				"session_destroy"
+			],
+			[
+				"usuarios",
+				"usuariosFinal"
+			],
+			[
+				"usua",
+				"usuariosJSON"
+			],
+			[
+				"has",
+				"hash2"
+			],
+			[
+				"con",
+				"contenido"
+			],
+			[
+				"nombre",
+				"nombreValue"
+			],
+			[
+				"error",
+				"errorValidarPass"
+			],
+			[
+				"mail",
+				"mailDefault"
+			],
+			[
+				"nomb",
+				"nombreDefault"
+			],
+			[
+				"edad",
+				"edadDefault"
+			],
+			[
+				"usern",
+				"usernameDefault"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"hobbies",
+				"hobbiesConfirmados"
+			],
+			[
+				"hobby",
+				"hobbyValido"
+			],
+			[
+				"hobbi",
+				"hobbiesArray"
+			],
+			[
+				"secc",
+				"seccionesSnake"
+			],
+			[
+				"sec",
+				"seccionesSnake"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"transal",
+				"translateY()"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"style",
+				"list-style"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"backgronud-",
+				"background-size"
+			],
+			[
+				"repe",
+				"repeat-x"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/digitalhouse/Escritorio/php/tm/oop/proyecto",
+		"/home/digitalhouse/Escritorio/php/tm/oop/proyecto/php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/proyecto/php/classes"
+	],
+	"file_history":
+	[
+		"/home/digitalhouse/Escritorio/php/tm/php/rentamovie/php/config.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/rentamovie/php/middlewares/auth.middleware.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/rentamovie/php/middlewares/guest.middleware.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/rentamovie/php/classes/ValidadorRegistro.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/rentamovie/php/controllers/registro.controller.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/rentamovie/php/helpers/usuario.helper.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/rentamovie/php/classes/ValidacionRegistro.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/proyecto/php/classes/ValidacionRegistro.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/rentamovie/php/validators/registro.validator.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/rentamovie/php/classes/ValidacionLogin.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/rentamovie/php/classes/Validador.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/proyecto/home.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/proyecto/php/classes/JSONDB.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/proyecto/php/classes/Usuario.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/proyecto/php/controllers/login.controller.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/proyecto/datos.json",
+		"/home/digitalhouse/Escritorio/php/tm/oop/proyecto/php/classes/Validacion.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/rentamovie/php/validators/login.validator.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/proyecto/php/classes/Model.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/proyecto/php/classes/DB.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/rentamovie/php/config.default.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/test/classes/DB.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/test/datos.json",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/traits/Comment.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/traits/Sharable.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/traits/Editable.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/traits/Post.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/traits/ejemplo1.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/ejemplo-nunca-hacer.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/ejemplos3/archivo1.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/ejemplos3/archivo2.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/ejemplos3/home.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/ejeplos2/test.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/ejeplos2/archivo2.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/ejeplos1/home.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/archivo1.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/home.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/archivo2.php",
+		"/home/digitalhouse/Escritorio/pruebapractica.php",
+		"/home/digitalhouse/Escritorio/usuariopractica.php",
+		"/home/digitalhouse/Escritorio/php/tm anual/aa.php",
+		"/home/digitalhouse/Escritorio/aa.php",
+		"/home/digitalhouse/Escritorio/clase1.html",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase2/Lista.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase2/index.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase2/Menu.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase2/Animal.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase2/ejemplo3.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase2/Perro.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase2/Agrupable.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase2/ejemplo2.php",
+		"/home/digitalhouse/Escritorio/php/youtube.php",
+		"/home/digitalhouse/Escritorio/youtube.php",
+		"/home/digitalhouse/Escritorio/yotubefinal.html",
+		"/home/digitalhouse/Escritorio/php/tt obj/permisos.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/index.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/Usuario.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/type-hinting.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/Auto.php",
+		"/home/digitalhouse/Escritorio/php/facebook.php",
+		"/home/digitalhouse/Escritorio/php/usuario.php",
+		"/home/digitalhouse/Escritorio/php/autitos.php",
+		"/home/digitalhouse/Escritorio/php/tt obj/tamagochi.php",
+		"/home/digitalhouse/Escritorio/php/tamagotchi.php",
+		"/home/digitalhouse/Escritorio/php/imprimibles.php",
+		"/home/digitalhouse/Escritorio/php/comidarapida.php",
+		"/home/digitalhouse/Escritorio/php/tt obj/ticket.php",
+		"/home/digitalhouse/Escritorio/php/silla.php",
+		"/home/digitalhouse/Escritorio/coneccion.php",
+		"/home/digitalhouse/Escritorio/php/tm/pdo/clase2/conn.php",
+		"/home/digitalhouse/Escritorio/php/tm/pdo/clase2/transaction.php",
+		"/home/digitalhouse/Escritorio/php/tm/pdo/clase2/biding-por-referencia.php",
+		"/home/digitalhouse/Escritorio/php/tm/pdo/clase2/binding.php",
+		"/home/digitalhouse/Escritorio/php/tm/pdo/clase1/practica.php",
+		"/home/digitalhouse/Escritorio/php/tm/pdo/clase1/index.php",
+		"/home/digitalhouse/Escritorio/php/tm/pdo/clase1/conn.php",
+		"/home/digitalhouse/Escritorio/php/tt/login.php",
+		"/home/digitalhouse/Escritorio/php/tt/funciones.php",
+		"/home/digitalhouse/Escritorio/test.sql",
+		"/home/digitalhouse/Escritorio/php/tt/inicio.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/rentamovie/php/helpers.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/rentamovie/php/registro.controller.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/rentamovie/usuarios.json",
+		"/home/digitalhouse/Escritorio/php/tm/php/rentamovie/perfil.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase9/secreto.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase9/php/login.controller.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase9/login.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase9/contacto.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase9/php/contacto.controller.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase9/cookies.php",
+		"/home/digitalhouse/Escritorio/php/tt/perfil.php",
+		"/home/digitalhouse/Escritorio/php/tt/post.php",
+		"/home/digitalhouse/Escritorio/php/tt/felicidad.php",
+		"/home/digitalhouse/Escritorio/php/tt/usuarios.json",
+		"/home/digitalhouse/Escritorio/php/tt/styles.css",
+		"/home/digitalhouse/Escritorio/carteles tm anual",
+		"/home/digitalhouse/Escritorio/php/post.php",
+		"/home/digitalhouse/Escritorio/php/usuarios.json",
+		"/home/digitalhouse/Escritorio/php/funciones.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase8/datos-persistentes.json",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase8/hash.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase8/persistir.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase8/formulario-persistente.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase8/data.json",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase8/data.txt",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase8/fgets.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase8/archivos2.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase8/archivos.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase7/formulario.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase6/register.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase6/validacion.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase7/upload.php",
+		"/home/digitalhouse/Escritorio/mi-imagen.txt",
+		"/home/digitalhouse/Escritorio/mi-imagen.png",
+		"/home/digitalhouse/Escritorio/register.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase6/registro_usuario.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase6/ejemplo1.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase6/ejemplo2.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase6/filterVar.php",
+		"/home/digitalhouse/Escritorio/php/estilos.css",
+		"/home/digitalhouse/Escritorio/php/felicidad.php",
+		"/home/digitalhouse/Escritorio/php/get.php",
+		"/home/digitalhouse/Escritorio/descargar snake link",
+		"/home/digitalhouse/Escritorio/php/script.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase6/test.php",
+		"/home/digitalhouse/Escritorio/php/fragment.html",
+		"/home/digitalhouse/Escritorio/php/sumar.php",
+		"/home/digitalhouse/Escritorio/php/superglobal.php"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$_POST",
+			"},",
+			"“",
+			"session",
+			"sess",
+			"}",
+			"dameuno",
+			"dameuno}",
+			"pass",
+			"input",
+			"<div>\n\t\t\t<label for=\"password\">Pass</label><br>\n\t\t\t<input type=\"password\" name=\"password\" id=\"password\">\n\t\t</div>",
+			"sumarSeccionASnake",
+			"seccion",
+			"keycode",
+			"sumarSeccionASnake",
+			"actualizarArray",
+			"sumarSeccionASnake()",
+			"sumarSecciona",
+			"sumarSeccionaSanke",
+			");\n",
+			"d",
+			"\"",
+			"img",
+			"img-descuento",
+			"<article",
+			"”",
+			"mark",
+			"strong"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$datos",
+			"},\n",
+			"'",
+			"img-nuevo",
+			"img-gratis",
+			"<article class=\"left\"",
+			"\"",
+			"cite",
+			"mark",
+			"em"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto.sublime-project",
+	"replace":
+	{
+		"height": 88.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"datos",
+				"datos.json"
+			],
+			[
+				"hom",
+				"home.php"
+			],
+			[
+				"jso",
+				"php/classes/JSONDB.php"
+			],
+			[
+				"usuario",
+				"php/classes/Usuario.php"
+			],
+			[
+				"datos.",
+				"datos.json"
+			],
+			[
+				"dato",
+				"datos.json"
+			],
+			[
+				"us",
+				"php/classes/Usuario.php"
+			],
+			[
+				"ho",
+				"home.php"
+			],
+			[
+				"json",
+				"php/classes/JSONDB.php"
+			],
+			[
+				"model",
+				"php/classes/Model.php"
+			],
+			[
+				"usu",
+				"php/classes/Usuario.php"
+			],
+			[
+				"db",
+				"php/classes/DB.php"
+			],
+			[
+				"home",
+				"home.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Escritorio/php/tm/oop/clase3/clase3.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

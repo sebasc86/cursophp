@@ -44,7 +44,8 @@ $filas = $query -> rowCount();
 
 if($filas == 0){
 
-  $stmt = $db -> prepare("INSERT INTO pelicula (id,titulo,rating,premios,fecha_de_estreno,duracion,id_genero) VALUES (:id,:titulo, :rating, :premios, :fecha_de_estreno, :duracion, :id_genero);");
+  $stmt = $db -> prepare("INSERT INTO pelicula (id,titulo,rating,premios,fecha_de_estreno,duracion,id_genero)
+  VALUES (:id,:titulo, :rating, :premios, :fecha_de_estreno, :duracion, :id_genero);");
 
   //$titulo = "La Guerra de las Galaxias: Episodio VI";
   $stmt -> bindValue(':id', $id, PDO::PARAM_STR);

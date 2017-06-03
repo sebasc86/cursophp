@@ -1,0 +1,766 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"li",
+				"lista"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"mi",
+				"miUsuario"
+			],
+			[
+				"usuario",
+				"usuarioAMostrar"
+			],
+			[
+				"usu",
+				"usuarioAMostrar"
+			],
+			[
+				"id",
+				"idAMostrar"
+			],
+			[
+				"foot",
+				"fotoPortada"
+			],
+			[
+				"__",
+				"__construct"
+			],
+			[
+				"ami",
+				"amigos"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"foto",
+				"fotoPerfil"
+			],
+			[
+				"matri",
+				"matrizXWing"
+			],
+			[
+				"MAtri",
+				"MatrizXWing"
+			],
+			[
+				"Matri",
+				"MatrizAuto"
+			],
+			[
+				"tamago",
+				"tamagotchi2"
+			],
+			[
+				"get",
+				"getImageUser($email)\tmixed"
+			],
+			[
+				"guar",
+				"guardarImagen($upload, $errores)\tmixed"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"v",
+				"validarRegistro()\tmixed"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"session_de",
+				"session_destroy"
+			],
+			[
+				"usuarios",
+				"usuariosFinal"
+			],
+			[
+				"usua",
+				"usuariosJSON"
+			],
+			[
+				"has",
+				"hash2"
+			],
+			[
+				"con",
+				"contenido"
+			],
+			[
+				"nombre",
+				"nombreValue"
+			],
+			[
+				"error",
+				"errorValidarPass"
+			],
+			[
+				"mail",
+				"mailDefault"
+			],
+			[
+				"nomb",
+				"nombreDefault"
+			],
+			[
+				"edad",
+				"edadDefault"
+			],
+			[
+				"usern",
+				"usernameDefault"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"hobbies",
+				"hobbiesConfirmados"
+			],
+			[
+				"hobby",
+				"hobbyValido"
+			],
+			[
+				"hobbi",
+				"hobbiesArray"
+			],
+			[
+				"secc",
+				"seccionesSnake"
+			],
+			[
+				"sec",
+				"seccionesSnake"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"re",
+				"respuestaFuncion"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"transal",
+				"translateY()"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"style",
+				"list-style"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"backgronud-",
+				"background-size"
+			],
+			[
+				"repe",
+				"repeat-x"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "traits/ejemplo1.php",
+			"settings":
+			{
+				"buffer_size": 229,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "traits/Post.php",
+			"settings":
+			{
+				"buffer_size": 141,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "traits/Editable.php",
+			"settings":
+			{
+				"buffer_size": 80,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "traits/Sharable.php",
+			"settings":
+			{
+				"buffer_size": 102,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "traits/Comment.php",
+			"settings":
+			{
+				"buffer_size": 141,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "list ",
+		"selected_items":
+		[
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/ejemplos3",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/traits"
+	],
+	"file_history":
+	[
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/ejemplo-nunca-hacer.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/ejemplos3/archivo1.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/ejemplos3/archivo2.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/ejemplos3/home.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/ejeplos2/test.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/ejeplos2/archivo2.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/ejeplos1/home.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/archivo1.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/home.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase3/archivo2.php",
+		"/home/digitalhouse/Escritorio/pruebapractica.php",
+		"/home/digitalhouse/Escritorio/usuariopractica.php",
+		"/home/digitalhouse/Escritorio/php/tm anual/aa.php",
+		"/home/digitalhouse/Escritorio/aa.php",
+		"/home/digitalhouse/Escritorio/clase1.html",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase2/Lista.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase2/index.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase2/Menu.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase2/Animal.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase2/ejemplo3.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase2/Perro.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase2/Agrupable.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/clase2/ejemplo2.php",
+		"/home/digitalhouse/Escritorio/php/youtube.php",
+		"/home/digitalhouse/Escritorio/youtube.php",
+		"/home/digitalhouse/Escritorio/yotubefinal.html",
+		"/home/digitalhouse/Escritorio/php/tt obj/permisos.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/index.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/Usuario.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/type-hinting.php",
+		"/home/digitalhouse/Escritorio/php/tm/oop/Auto.php",
+		"/home/digitalhouse/Escritorio/php/facebook.php",
+		"/home/digitalhouse/Escritorio/php/usuario.php",
+		"/home/digitalhouse/Escritorio/php/autitos.php",
+		"/home/digitalhouse/Escritorio/php/tt obj/tamagochi.php",
+		"/home/digitalhouse/Escritorio/php/tamagotchi.php",
+		"/home/digitalhouse/Escritorio/php/imprimibles.php",
+		"/home/digitalhouse/Escritorio/php/comidarapida.php",
+		"/home/digitalhouse/Escritorio/php/tt obj/ticket.php",
+		"/home/digitalhouse/Escritorio/php/silla.php",
+		"/home/digitalhouse/Escritorio/coneccion.php",
+		"/home/digitalhouse/Escritorio/php/tm/pdo/clase2/conn.php",
+		"/home/digitalhouse/Escritorio/php/tm/pdo/clase2/transaction.php",
+		"/home/digitalhouse/Escritorio/php/tm/pdo/clase2/biding-por-referencia.php",
+		"/home/digitalhouse/Escritorio/php/tm/pdo/clase2/binding.php",
+		"/home/digitalhouse/Escritorio/php/tm/pdo/clase1/practica.php",
+		"/home/digitalhouse/Escritorio/php/tm/pdo/clase1/index.php",
+		"/home/digitalhouse/Escritorio/php/tm/pdo/clase1/conn.php",
+		"/home/digitalhouse/Escritorio/php/tt/login.php",
+		"/home/digitalhouse/Escritorio/php/tt/funciones.php",
+		"/home/digitalhouse/Escritorio/test.sql",
+		"/home/digitalhouse/Escritorio/php/tt/inicio.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/rentamovie/php/helpers.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/rentamovie/php/registro.controller.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/rentamovie/usuarios.json",
+		"/home/digitalhouse/Escritorio/php/tm/php/rentamovie/perfil.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase9/secreto.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase9/php/login.controller.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase9/login.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase9/contacto.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase9/php/contacto.controller.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase9/cookies.php",
+		"/home/digitalhouse/Escritorio/php/tt/perfil.php",
+		"/home/digitalhouse/Escritorio/php/tt/post.php",
+		"/home/digitalhouse/Escritorio/php/tt/felicidad.php",
+		"/home/digitalhouse/Escritorio/php/tt/usuarios.json",
+		"/home/digitalhouse/Escritorio/php/tt/styles.css",
+		"/home/digitalhouse/Escritorio/carteles tm anual",
+		"/home/digitalhouse/Escritorio/php/post.php",
+		"/home/digitalhouse/Escritorio/php/usuarios.json",
+		"/home/digitalhouse/Escritorio/php/funciones.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase8/datos-persistentes.json",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase8/hash.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase8/persistir.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase8/formulario-persistente.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase8/data.json",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase8/data.txt",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase8/fgets.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase8/archivos2.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase8/archivos.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase7/formulario.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase6/register.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase6/validacion.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase7/upload.php",
+		"/home/digitalhouse/Escritorio/mi-imagen.txt",
+		"/home/digitalhouse/Escritorio/mi-imagen.png",
+		"/home/digitalhouse/Escritorio/register.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase6/registro_usuario.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase6/ejemplo1.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase6/ejemplo2.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase6/filterVar.php",
+		"/home/digitalhouse/Escritorio/php/estilos.css",
+		"/home/digitalhouse/Escritorio/php/felicidad.php",
+		"/home/digitalhouse/Escritorio/php/get.php",
+		"/home/digitalhouse/Escritorio/descargar snake link",
+		"/home/digitalhouse/Escritorio/php/script.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase6/test.php",
+		"/home/digitalhouse/Escritorio/php/fragment.html",
+		"/home/digitalhouse/Escritorio/php/sumar.php",
+		"/home/digitalhouse/Escritorio/php/superglobal.php",
+		"/home/digitalhouse/Escritorio/php/form.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/script.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase5/index.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase5/procesar.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase5/get-y-post.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase4/ejercicio1b.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase4/calcular.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase4/libreria.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase4/include.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase4/require.php",
+		"/media/digitalhouse/STORE N GO/rentamovie/episodio.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase4/nav.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase4/b.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase4/a.php",
+		"/home/digitalhouse/Escritorio/php/tm/php/clase4/sitio.php",
+		"/home/digitalhouse/Escritorio/php/footer.php",
+		"/home/digitalhouse/Escritorio/php/styles.css",
+		"/home/digitalhouse/Escritorio/php/header.php",
+		"/home/digitalhouse/Escritorio/php/article.php",
+		"/home/digitalhouse/Escritorio/php/inicio.php",
+		"/home/digitalhouse/Escritorio/php/login.php",
+		"/home/digitalhouse/Escritorio/scripting.php",
+		"/home/digitalhouse/Escritorio/php/html.php",
+		"/home/digitalhouse/Escritorio/php/output.php",
+		"/home/digitalhouse/Escritorio/ejercicios.html",
+		"/home/digitalhouse/Escritorio/aaa",
+		"/home/digitalhouse/Escritorio/ejerfinal",
+		"/home/digitalhouse/Escritorio/terminada (1)/snake.js"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"“",
+			"session",
+			"sess",
+			"}",
+			"dameuno",
+			"dameuno}",
+			"pass",
+			"input",
+			"<div>\n\t\t\t<label for=\"password\">Pass</label><br>\n\t\t\t<input type=\"password\" name=\"password\" id=\"password\">\n\t\t</div>",
+			"sumarSeccionASnake",
+			"seccion",
+			"keycode",
+			"sumarSeccionASnake",
+			"actualizarArray",
+			"sumarSeccionASnake()",
+			"sumarSecciona",
+			"sumarSeccionaSanke",
+			");\n",
+			"d",
+			"\"",
+			"img",
+			"img-descuento",
+			"<article",
+			"”",
+			"mark",
+			"strong"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"img-nuevo",
+			"img-gratis",
+			"<article class=\"left\"",
+			"\"",
+			"cite",
+			"mark",
+			"em"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "traits/ejemplo1.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "traits/Post.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "traits/Editable.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 80,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "traits/Sharable.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "traits/Comment.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "clase3.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
