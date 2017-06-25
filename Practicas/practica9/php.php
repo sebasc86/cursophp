@@ -1,5 +1,13 @@
 <?php
 
+$host = 'localhost';
+$nameDB = 'autopool';
+$user = 'root';
+$pass = '';
+
+
+echo "mysql:host='$host';dbname='$nameDB'";
+
 /*
 $colores = ["naranja","rojo","amarillo"];
 
@@ -92,9 +100,9 @@ if($_POST){
 	<h1>Hola</h1>
 	<form method="post">
 		<label for="nombre">Nombre</label>
-		<input type="text" name="nombre" id="nombre" 
+		<input type="text" name="nombre" id="nombre"
 		value='<?php echo "$nombre"; ?>'>
-	
+
 		<?php
 		if(isset($errores["error_nombre"])){
 			echo $errores["error_nombre"];
@@ -103,8 +111,6 @@ if($_POST){
 
 		<input type="submit" name="Enviar">
 	</form>
-	
+
 </body>
 </html>
-
-

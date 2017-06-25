@@ -1,5 +1,5 @@
 <?php
-require '../classes/ValidacionLogin.php';
+require '../classes/ValidacionRegistro.php';
 require '../classes/Usuario.php';
 require_once('../classes/JSONDB.php');
 
@@ -12,5 +12,5 @@ $db = new JSONDB($include.'datos.json');
 $usuario = new Usuario($db);
 
 $validador = new ValidadorLogin();
-var_dump($validador->validar($POST, $usuario));
-
+$prueba = $validador->validar($POST, $usuario);
+var_dump($prueba);

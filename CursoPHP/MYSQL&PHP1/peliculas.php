@@ -2,6 +2,7 @@
 include 'conn.php';
 
 
+
 $query = $db -> query('select titulo from pelicula');
 $peliculas = $query -> fetchAll(PDO::FETCH_ASSOC);
 

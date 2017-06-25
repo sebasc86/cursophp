@@ -2,17 +2,17 @@
 require_once 'Model.php';
 
 class Usuario extends Model {
-	
-	public static $name = 'usuarios';
-	
-	public static $primaryKey = 'email';
+
+	// public static $name = 'usuario';
+
+	public static $primaryKey = 'mail';
 
 	public $nombre;
-	
+
 	public $apellido;
-	
+
 	public $email;
-	
+
 	public $password;
 
 	public function agregarImagen($imagen)
